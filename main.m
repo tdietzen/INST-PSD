@@ -5,10 +5,10 @@
 % version 3 (http://www.gnu.org/licenses/gpl.txt).
 %
 % If you find it useful, please cite:
-% [1] T. Dietzen, M. Moonen, and T. van Waterschoot, ?Instantaneous PSD
+% [1] T. Dietzen, M. Moonen, and T. van Waterschoot, 'Instantaneous PSD
 % estimation for speech enhancement based on generalized principal
-% components,? ESAT-STADIUS Tech. Rep., KU Leuven, Belgium, submitted for
-% publication, June 2019.
+% components,' ESAT-STADIUS Tech. Rep., KU Leuven, Belgium, submitted for
+% publication, Mar 2020.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
