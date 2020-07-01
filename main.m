@@ -7,8 +7,8 @@
 % If you find it useful, please cite:
 % [1] T. Dietzen, M. Moonen, and T. van Waterschoot, 'Instantaneous PSD
 % estimation for speech enhancement based on generalized principal
-% components,' ESAT-STADIUS Tech. Rep., KU Leuven, Belgium, submitted for
-% publication, Mar 2020.
+% components,' in Proc. 28th European Signal Process. Conf. (EUSIPCO 2020), 
+% Amsterdam, Netherlands, Jan 2021, pp. 1-5.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
